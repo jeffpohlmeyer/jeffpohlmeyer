@@ -1,7 +1,5 @@
 # [Jeff Pohlmeyer](https://www.youtube.com/watch?v=AfIOBLr1NDU), Full-Stack Developer
 
-## TOC
-
 ## Summary
 I am a self-taught full-stack web developer, with a current focus in frontend.
 My professional work is with [Vue](https://vuejs.org/) and my personal projects are all done in [SvelteKit](https://svelte.dev/), but I have experience in [React](https://react.dev/), [Express](https://expressjs.com/), [Django](https://www.djangoproject.com/) (this is my "first love" as it's the framework in which I started out), [FastAPI](https://fastapi.tiangolo.com/) (I actually have an old [youtube playlist](https://www.youtube.com/playlist?list=PLqAmigZvYxIL9dnYeZEhMoHcoP4zop8-p) that goes through the FastAPI docs for visual learners).
