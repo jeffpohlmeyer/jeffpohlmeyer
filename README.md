@@ -42,9 +42,11 @@ It was also through my advisor that I was lucky enough to study for a bit at [Ox
 During my time at NJIT I took a course in stochastic calculus that started to pique my interest in quantitative finance.
 It was also during this same time that I realized that while I was interest in quantiative finance, the life of a desk quant would likely not be the life that I desired, so I reached for what I thought would be the next best thing: actuary-ing 😉.
 In 2013, the rule at the time for SOA associateship qualification was passing Exams P (probability), FM (financial math), MFE (models for financial economics), MLC (models for life contingencies), and C (construction and evaluation of actuarial models ), then followed by modules, interim assessment, and final assessment.
+
 I sat for and passed the first four in 2013, then got a job at [New York Life](https://www.newyorklife.com/) in their actuarial development program.
 I passed exam C while working there, and ended up leaving NYL in 2016 because their office was moving and I didn't want to move with it.
 I achieved my associateship while working at [Metlife](https://www.metlife.com/), and passed the first fellowship exam: QFI Core.
+
 It was while studying for QFI Advanced that I realized that there were certain aspects of the actuarial profession that no longer interested me, and I was much more interested in the modeling aspect of the financial models with which I was working at Metlife.
 Unfortunately, the role at Metlife didn't allow for me to dive too deep into the technical aspects of the models, which prompted me to shift my career path over to a much more modeling-heavy role at [AM Best](https://web.ambest.com/).
 
@@ -52,31 +54,18 @@ Unfortunately, the role at Metlife didn't allow for me to dive too deep into the
 I started at AM Best as a modeler who would work on actuarial models and their conversion from Excel into Python.
 It quickly became obvious that the project on which we were working would need to be converted into a web app, instead.
 I had the most web development on the team at the time, which was not saying much, and as such I was tasked with leading the build of the full-stack app that used [Django Rest Framework](https://www.django-rest-framework.org/) serving up data that it consumed from an internally-build calculation engine, and provided to users via a Vue 2 app.
+
 After a few years of this, and into the pandemic, the focus of the group shifted and personnel changed so much that I saw that I would not be able to do what it had taken me so long to find I really loved to do.
 I also realized that if I wanted to get experience in a more traditional engineering focused role/group I would need to move on to greener pastures.
 
 I was brought in to [Urbint](https://www.urbint.com/) as a back-end focused engineer to utilize my Django experience in an app they were working on.
 Shortly after I joined, though, I was cross-designated to another team and project, which is what got me to start working on FastAPI, working on a GraphQL backend to be served to a separately-designed frontend.
+
 It was during my time working at Urbint that I finally fully appreciated how much I enjoy working on frontend code following the old adage of "you don't know what you've got until it's gone".
 There was a confluence of events that contributed to my short stint at Urbint, but I was very fortunate to finally find what is a natural landing spot at [arqu](https://arqu.com/).
 
 Here I have been able to flex a lot of muscles I didn't realize I had.
 Because the company was so small when I joined and we did not have any dedicated project manager or UX designer, I had the opportunity/responsibility to work with stakeholders on a regular basis to try to determine what they need and deliver it to them.
+
 It has taken a while to get here, but I have finally found my place in a role where I can spend some days just sitting at the computer coding, some days designing/tweaking designs, some days talking with insurance professionals employed by the company, and many other tasks.
 Because the company is still so small (we have since hired a project manager and UX designer, thankfully) there are rarely two days that are ever exactly the same and I feel very fortunate to be able to contribute so meaningfully on a myriad of projects that will have a large impact.
-
-
-<!--
-**jeffpohlmeyer/jeffpohlmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
