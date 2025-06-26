@@ -45,7 +45,8 @@ It was also through my advisor that I was lucky enough to study for a bit at [Ox
 #### Actuarial
 During my time at NJIT I took a course in stochastic calculus that started to pique my interest in quantitative finance.
 
-It was also during this same time that I realized that while I was interest in quantiative finance, the life of a desk quant would likely not be the life that I desired, so I reached for what I thought would be the next best thing: actuary-ing 😉.
+It was also during this same time that I realized that while I was interest in quantiative finance, the life of a desk quant would likely not be the life that I desired, so I reached for what I thought would be the next best thing: actuary-ing 😉.  
+
 In 2013, the rule at the time for SOA associateship qualification was passing Exams P (probability), FM (financial math), MFE (models for financial economics), MLC (models for life contingencies), and C (construction and evaluation of actuarial models ), then followed by modules, interim assessment, and final assessment.
 
 I sat for and passed the first four in 2013, then got a job at [New York Life](https://www.newyorklife.com/) in their actuarial development program.
@@ -53,6 +54,7 @@ I passed exam C while working there, and ended up leaving NYL in 2016 because th
 I achieved my associateship while working at [Metlife](https://www.metlife.com/), and passed the first fellowship exam: QFI Core.
 
 It was while studying for QFI Advanced that I realized that there were certain aspects of the actuarial profession that no longer interested me, and I was much more interested in the modeling aspect of the financial models with which I was working at Metlife.
+
 Unfortunately, the role at Metlife didn't allow for me to dive too deep into the technical aspects of the models, which prompted me to shift my career path over to a much more modeling-heavy role at [AM Best](https://web.ambest.com/).
 
 #### Web Development
