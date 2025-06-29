@@ -2,7 +2,7 @@
 
 I'm a front-end–oriented full-stack engineer who builds accessible, fast, and pragmatic web applications.
 
-Currently, I lead the UI architecture at [Arqu](https://arqu.com), where I’ve helped shape a more scalable and maintainable frontend by modernizing legacy Vue code into a clean, idiomatic Vue 3 application using Pinia, TypeScript, and custom-designed component systems. I regularly collaborate with stakeholders across product, operations, and design to ensure our solutions not only meet technical standards but also align with user needs and business goals.
+Currently, I lead the UI architecture at [arqu](https://arqu.com), where I’ve helped shape a more scalable and maintainable frontend by modernizing legacy Vue code into a clean, idiomatic Vue 3 application using Pinia, TypeScript, and custom-designed component systems. I regularly collaborate with stakeholders across product, operations, and design to ensure our solutions not only meet technical standards but also align with user needs and business goals.
 
 [🔗 LinkedIn](https://www.linkedin.com/in/jeffrey-pohlmeyer/) • [▶️ FastAPI YouTube Series](https://www.youtube.com/playlist?list=PLqAmigZvYxIL9dnYeZEhMoHcoP4zop8-p)
 
