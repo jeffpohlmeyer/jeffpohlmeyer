@@ -10,10 +10,10 @@ Currently, I lead the UI architecture at [arqu](https://arqu.com), where I’ve 
 
 ## 🛠 Tech I Love Working With
 
-* **Frontend:** Vue 3, SvelteKit, React, TypeScript, Tailwind, shadcn-vue/svelte
-* **Backend:** Python, Django, FastAPI, PostgreSQL, Drizzle ORM
-* **Tooling:** Vitest, Cypress, GitHub Actions, ESLint/Prettier, Docker
-* **Auth:** Lucia, JWT, OAuth2 (custom + third-party)
+- **Frontend:** Vue 3, SvelteKit, React, TypeScript, Tailwind, shadcn-vue/svelte
+- **Backend:** Python (Django, FastAPI), Node.js/Express, PostgreSQL, Drizzle ORM
+- **Tooling:** Vitest, Cypress, GitHub Actions, ESLint/Prettier, Docker
+- **Auth:** Lucia, JWT, OAuth2 (custom + third-party)
 
 ---
 
